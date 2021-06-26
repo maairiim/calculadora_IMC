@@ -1,0 +1,24 @@
+<resources>
+    <!-- Generales -->
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="estatura">Tu estatura: </string>
+    <string name="peso">Tu peso: </string>
+    <string name="resultado">Resultado: </string>
+    <string name="especificacionPeso">Peso en kg. </string>
+    <string name="especificacionEstatura">Estatura en m.</string>
+
+    <string name="camposVaciosAdvertencia">No dejar campos en blanco.</string>
+
+
+    <!-- Botones -->
+    <string name="btnCalcularIMC">Calcular IMC</string>
+
+    <!-- Veredicto -->
+    <string name="veredictoBP"> Bajo de peso </string>
+    <string name="veredictoN"> Normal </string>
+    <string name="veredictoSP"> Sobrepeso </string>
+    <string name="veredictoOG1"> Obesidad grado 1 </string>
+    <string name="veredictoOG2"> Obesidad grado 2 </string>
+    <string name="veredictoOG3"> Obesidad grado 3 </string>
+
+</resources>
